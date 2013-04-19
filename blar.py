@@ -1,2 +1,2 @@
 def f1(n):
-    return n * 3
+    return n * 4
