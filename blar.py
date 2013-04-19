@@ -1,2 +1,5 @@
 def f1(n):
-    return n * 3
+    if n > 5:
+        return n * 3
+    else:
+        return 0
